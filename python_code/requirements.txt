@@ -1,0 +1,10 @@
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.5
+python-dotenv==1.2.3
+Requests==2.34.2
+scipy==1.18.1
+seaborn==0.13.2
+statsmodels==0.14.6
+yfinance==0.2.61
+~tatsmodels==0.14.4
