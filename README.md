@@ -1,8 +1,6 @@
 # [Weather Forecast Errors and the Distribution of Natural Gas Price Variance: Evidence from TTF Futures]
 
 **Authors:** [Athaillah Hadyan Abdahaqqi](www.linkedin.com/in/athaillah-hadyan-abdahaqqi-b943b9328/) and [Oliver Spiby](https://www.linkedin.com/in/oliver-spiby-6b1b04275/)
-**Date:** [September 2026]
-
 ---
 
 ## Full Paper
